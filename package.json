@@ -1,0 +1,22 @@
+{
+  "name": "pagina-",
+  "version": "1.0.0",
+  "description": "Practica_uno",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanPB16/Pagina-.git"
+  },
+  "author": "Ivan Peralta Bonilla <ivan.peralta.b@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IvanPB16/Pagina-/issues"
+  },
+  "homepage": "https://github.com/IvanPB16/Pagina-#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
